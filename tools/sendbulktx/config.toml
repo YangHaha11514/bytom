@@ -1,0 +1,7 @@
+send_acct_id = "0CPVG5B400A02"
+password = "123456"
+send_asset_id = "4f4525f1414282b6a7084cb20f361409a6e28acfad602ad95467f3eee31f2363"
+#"issue", "spend", "address"
+build_type = "address"
+asset_receiver = ["bm1quvzgjsw5v4v23v40x2paqyrqc48dfx8e22x976"]
+#asset_receiver = ["bm1q678m0eac5xcxxvalynzjp5cl4wq06rp039svzs","bm1qhgpjl0f7hzyxj866v0ztllscw6uqmh5gfcuqgy"]
